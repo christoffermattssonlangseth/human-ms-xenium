@@ -1,0 +1,2 @@
+# Reanalysis of Xenium spatial transcriptomics data from human spinal cord tissue in multiple sclerosis (MS).
+The dataset comprises six samples in total: two inactive lesions, two active lesions, and two control samples, profiled using a 266-gene human brain panel
